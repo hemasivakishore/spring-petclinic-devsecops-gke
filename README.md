@@ -39,3 +39,4 @@ This project demonstrates a modern **Shift-Left Security** approach for a Java S
 ├── Dockerfile           # Multi-stage Dockerfile
 ├── pom.xml              # Maven Dependencies
 └── README.md
+```
